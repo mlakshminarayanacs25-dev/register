@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "mlakshminarayanacs25-dev"
+        "username": "mlakshminarayanacs25-dev",
+        "email": "mlakshminarayana.cs25@bmsce.com"
     },
-    "record": {
+    "records": {
         "CNAME": "sairam-client-vsum.vercel.app"
     }
 }
